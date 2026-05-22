@@ -1,0 +1,6 @@
+{
+  "name": "AgriSmart",
+  "description": "An interactive agronomic system exploring Nitrogen, Phosphorus, Potassium, Rainfall, Temperature, and pH levels to recommend optimal crops in India using KNN, Decision Tree, and Random Forest models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
